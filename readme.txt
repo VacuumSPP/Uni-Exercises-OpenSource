@@ -1,0 +1,1 @@
+Sample lines for the exercise
